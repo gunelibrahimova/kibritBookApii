@@ -34,3 +34,15 @@ C:\Users\HP\Desktop\KibritBookApi-master\Core\obj\Debug\net6.0\Core.csproj.CoreC
 C:\Users\HP\Desktop\KibritBookApi-master\Core\obj\Debug\net6.0\Core.dll
 C:\Users\HP\Desktop\KibritBookApi-master\Core\obj\Debug\net6.0\ref\Core.dll
 C:\Users\HP\Desktop\KibritBookApi-master\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\HP\Desktop\kibritbook\KibritBookApi-master\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\HP\Desktop\kibritbook\KibritBookApi-master\Core\bin\Debug\net6.0\Core.dll
+C:\Users\HP\Desktop\kibritbook\KibritBookApi-master\Core\bin\Debug\net6.0\ref\Core.dll
+C:\Users\HP\Desktop\kibritbook\KibritBookApi-master\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\HP\Desktop\kibritbook\KibritBookApi-master\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\kibritbook\KibritBookApi-master\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\kibritbook\KibritBookApi-master\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\kibritbook\KibritBookApi-master\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\kibritbook\KibritBookApi-master\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\kibritbook\KibritBookApi-master\Core\obj\Debug\net6.0\Core.dll
+C:\Users\HP\Desktop\kibritbook\KibritBookApi-master\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\HP\Desktop\kibritbook\KibritBookApi-master\Core\obj\Debug\net6.0\Core.pdb

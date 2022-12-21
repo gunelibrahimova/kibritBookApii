@@ -65,6 +65,8 @@ builder.Services.AddScoped<IBookPictureDal, BookPictureDal>();
 builder.Services.AddScoped<IBookPictureManager,BookPictureManager>();
 builder.Services.AddScoped<IPublisherDal, PublisherDal>();
 builder.Services.AddScoped<IPublisherManager, PublisherManager>();
+builder.Services.AddScoped<ISliderDal, SliderDal>();
+builder.Services.AddScoped<ISliderManager, SliderManager>();
 
 
 builder.Services.AddScoped<HasingHandler>();

@@ -26,6 +26,7 @@ namespace DataAccess.Concrete.EntityFramework
         public DbSet<PublisherOfWeek> PublisherOfWeeks { get; set; }
         public DbSet<Reading> Readings { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<Slider> Sliders { get; set; }
     }
 }
 

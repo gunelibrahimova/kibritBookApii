@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FNoXE/jDhpdEFcBtSiSpEwvlpW7/bErHHwy4Q/TRCihBEB7snkjGq729jIgkO5Rq8/9RIliGDncBs2+KR7/NBA==",
+  "dgSpecHash": "pFlRk33+y9LWXl2p/FvFL/XxM1Hh1EEPUsOFT9uXh+wbnDqZAGf0wca/ZYRnOBZIxNAXSBRwwgeME7jv6uuLhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\KibritBookApi-master\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\kibritbook\\KibritBookApi-master\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.8\\microsoft.aspnetcore.authentication.jwtbearer.6.0.8.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.8\\microsoft.aspnetcore.cryptography.internal.6.0.8.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nQcefue8MaUx2/k8xQTxHQiZQ6KFpOW0vI6fOdGzGfvl6y7YIXT3tcqE26ebY6mO/ax7IsG+jz2/d7R2xwvdAA==",
+  "dgSpecHash": "G7zrQm60iu31F9xY3j/f6bEiRf3oZ1cXbLjQcjmJSFC7iyWnUR+X5M9DZmQQqoxCKmi++rnW5b7smv48gC2miA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\KibritBookApi-master\\KibritBook\\KibritBook.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\kibritbook\\KibritBookApi-master\\KibritBook\\KibritBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.8\\microsoft.aspnetcore.authentication.jwtbearer.6.0.8.nupkg.sha512",
