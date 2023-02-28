@@ -19,6 +19,7 @@ namespace Entities.DTOs
         public string BookCover { get; set; }
         public string PaperType { get; set; }
         public string Size { get; set; }
+        public int Quantity { get; set; }
         public int AuthorId { get; set; }
         public int PublisherId { get; set; }
         public int GenreId { get; set; }

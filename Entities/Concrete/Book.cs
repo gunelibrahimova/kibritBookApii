@@ -25,6 +25,7 @@ namespace Entities.Concrete
         public Author Author { get; set; }
         public int PublisherId { get; set; }
         public Publisher Publisher { get; set; }
+        public int Quantity { get; set; }
         public int GenreId { get; set; }
         public Genre Genre { get; set; }
         public int LanguageId { get; set; }

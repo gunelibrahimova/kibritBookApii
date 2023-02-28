@@ -79,7 +79,8 @@ namespace DataAccess.Concrete.EntityFramework
                     isStock = product.isStock,
                     isTranslate = product.isTranslate,
                     Rating = Math.Round(ratingSum, 1),
-                    Comments = commentResult
+                    Comments = commentResult,
+                    Quantity = product.Quantity,
                 };
 
                 return result;
@@ -151,6 +152,7 @@ namespace DataAccess.Concrete.EntityFramework
                         isStock = products[i].isStock,
                         isTranslate = products[i].isTranslate,
                         Rating = Math.Round(ratingSum, 1),
+                        Quantity = products[i].Quantity,
                     };
                     result.Add(productList);
                 }

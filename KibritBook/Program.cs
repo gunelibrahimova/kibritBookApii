@@ -67,7 +67,8 @@ builder.Services.AddScoped<IPublisherDal, PublisherDal>();
 builder.Services.AddScoped<IPublisherManager, PublisherManager>();
 builder.Services.AddScoped<ISliderDal, SliderDal>();
 builder.Services.AddScoped<ISliderManager, SliderManager>();
-
+builder.Services.AddScoped<IAuthDal, AuthDal>();
+builder.Services.AddScoped<IAuthManager, AuthManager>();
 
 builder.Services.AddScoped<HasingHandler>();
 builder.Services.AddScoped<TokenGenerator>();

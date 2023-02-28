@@ -14,6 +14,7 @@ namespace Entities.DTOs
         public string Description { get; set; }
         public string Price { get; set; }
         public string? SalePrice { get; set; }
+        public int Quantity { get; set; }
         public bool isStock { get; set; }
         public bool isTranslate { get; set; }
         public int ReviewCount { get; set; }

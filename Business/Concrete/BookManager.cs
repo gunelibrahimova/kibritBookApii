@@ -38,7 +38,8 @@ namespace Business.Concrete
                 AuthorId = bookDTO.AuthorId,
                 PublisherId = bookDTO.PublisherId,
                 GenreId = bookDTO.GenreId,
-                LanguageId = bookDTO.LanguageId
+                LanguageId = bookDTO.LanguageId,
+                Quantity = bookDTO.Quantity
             };
             _bookDal.Add(book);
             for (int i = 0; i < bookDTO.BookPictures.Count; i++)
@@ -77,6 +78,7 @@ namespace Business.Concrete
             current.GenreId = bookDTO.GenreId;
             current.PublisherId = bookDTO.PublisherId;
             current.LanguageId = bookDTO.LanguageId;
+            current.Quantity = bookDTO.Quantity;
             _bookDal.Delete(current);
         }
 
@@ -98,6 +100,7 @@ namespace Business.Concrete
             current.GenreId = bookDTO.GenreId;
             current.PublisherId = bookDTO.PublisherId;
             current.LanguageId = bookDTO.LanguageId;
+            current.Quantity = bookDTO.Quantity;
             _bookDal.Update(current);
         }
 
